@@ -1,4 +1,4 @@
-# Fast API and ONNXRUNTIME - PyTorch Image classifaction Model Deployment
+# Fast API and ONNXRUNTIME - PyTorch Image classification Model Deployment
 
 <p align="center">
   <img width="800" height="450" src="https://user-images.githubusercontent.com/78400305/226119180-ba850e99-5e54-4716-85d9-1eb11805b7ab.png">
